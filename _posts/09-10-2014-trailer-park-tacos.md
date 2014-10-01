@@ -15,3 +15,4 @@ color: red
 - Artisanal augula
 - Salsa
 - Onions
+- pickles
